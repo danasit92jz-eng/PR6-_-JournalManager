@@ -57,3 +57,4 @@ Enter your choice:
 # Screen sort of output:
 <img width="573" height="709" alt="image" src="https://github.com/user-attachments/assets/fae67e51-02ba-4536-b95d-3826ae52e80c" />
 <img width="674" height="394" alt="image" src="https://github.com/user-attachments/assets/afe06670-b23d-43f9-86ef-ad94a0d6ff19" />
+<img width="790" height="322" alt="image" src="https://github.com/user-attachments/assets/a8fd4424-aa96-46fc-a29c-b8de9a7ce913" />
